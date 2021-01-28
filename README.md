@@ -13,6 +13,7 @@ Welcome to Cold Station 19! Here it is always 2009. Here you're always trapped i
 * Chisels and Bits
 * Controlling
 * Custom NPCs
+* Doot
 * Environmental Tech
 * Flux Networks
 * Genetics Reborn
@@ -32,6 +33,5 @@ Welcome to Cold Station 19! Here it is always 2009. Here you're always trapped i
 * Sync
 * Tough As Nails
 * Translocators
-* Trumpet Skeleton
 * Xtones
 * Plus plenty of optimizations and dependencies
