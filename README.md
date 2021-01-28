@@ -19,7 +19,7 @@ Welcome to Cold Station 19! Here it is always 2009. Here you're always trapped i
 * Genetics Reborn
 * Hunting Dimension
 * Just Enough Items
-* Malisis
+* Malisis Doors
 * Mekanism
 * Mekanism Generators
 * Mekanism Tools
